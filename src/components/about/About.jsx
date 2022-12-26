@@ -28,12 +28,12 @@ function About() {
             <article className="about__card">
               <RiUserStarLine />
               <h5>Projects</h5>
-              <small>2 Years Working</small>
+              <small>5+ Projects</small>
             </article>
             <article className="about__card">
               <HiOutlineDocumentDownload />
               <h5>Company</h5>
-              <small>2 Years Working</small>
+              <small>4 Company</small>
             </article>
           </div>
           <p>
